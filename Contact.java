@@ -65,6 +65,7 @@ public class Contact {
 /**
      * Constructor.<br>
      */
+    private String count;
     public Contact() {
     }
 
